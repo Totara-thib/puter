@@ -17,6 +17,10 @@
     <a href="https://twitter.com/HeyPuter">X</a>
 </p>
 
+<p align="center">
+    <a href="https://score.getplumber.io/github.com/HeyPuter/puter"><img alt="Plumber Score" src="https://score.getplumber.io/github.com/HeyPuter/puter.svg"></a>
+</p>
+
 <h3 align="center"><img width="800" style="border-radius:5px;" alt="screenshot" src="https://assets.puter.site/puter.com-screenshot.webp"></h3>
 
 <br/>
